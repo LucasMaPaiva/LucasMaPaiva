@@ -1,7 +1,8 @@
 ## Oiii eu sou a Lucas Paiva!
 
-🔭 Trabalho como Desenvolvedor Full-Stack
-😄 Ele/Dele
+-🔭 Trabalho como Desenvolvedor Full-Stack
+
+-😄 Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
