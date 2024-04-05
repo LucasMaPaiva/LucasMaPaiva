@@ -21,3 +21,7 @@
   <a href = "mailto:lucaspaivadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-paiva-613366209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+  <a href="https://wakatime.com/@LucasMaPaiva" target="_blank"><img src="https://wakatime.com/badge/user/018e818c-fcf7-4745-9724-57c68b8908fd.svg" alt="Total time coded since Mar 27 2023" target="_blank"></a> 
+</div>
