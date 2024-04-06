@@ -23,5 +23,5 @@
 </div>
 
 <div>
-  <a href="https://wakatime.com/@LucasMaPaiva" target="_blank"><img src="https://wakatime.com/badge/user/018e818c-fcf7-4745-9724-57c68b8908fd.svg" alt="Total time coded since Mar 27 2023" target="_blank"></a> 
+<!--   <a href="https://wakatime.com/@LucasMaPaiva" target="_blank"><img src="https://wakatime.com/badge/user/018e818c-fcf7-4745-9724-57c68b8908fd.svg" alt="Total time coded since Mar 27 2023" target="_blank"></a>  -->
 </div>
