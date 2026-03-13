@@ -1,4 +1,4 @@
-## Oiii eu sou Lucas Paiva!
+## Oi, eu sou Lucas Paiva!
 
 -🔭 Trabalho como Desenvolvedor Full-Stack
 
