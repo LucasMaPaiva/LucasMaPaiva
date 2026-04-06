@@ -1,8 +1,26 @@
-## Oi, eu sou Lucas Paiva!
+# 👋 Olá, eu sou Lucas Paiva
 
--🔭 Trabalho como Desenvolvedor Full-Stack
+💻 Desenvolvedor Backend com experiência em sistemas em produção
 
--😄 Ele/Dele
+🚀 Trabalho com:
+- PHP / Laravel
+- PostgreSQL
+- Docker
+- APIs REST
+- Infraestrutura e deploy
+
+🧠 Foco em:
+- Organização de código e regras de negócio
+- Performance e escalabilidade
+- Sistemas prontos para produção
+
+📌 Projetos em destaque:
+- 🔗 [H7 Escalas](https://plataforma.h7-escalas.com.br)
+- 🔗 [Dois90 Pizzaria](https://dois90.com.br)
+
+📫 Contato:
+- LinkedIn: (coloca aqui)
+- Email: (já tem)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
