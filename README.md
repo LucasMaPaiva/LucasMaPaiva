@@ -1,41 +1,42 @@
-# 👋 Olá, eu sou Lucas Paiva
+# Olá, eu sou o Lucas Paiva 👋
 
-💻 Desenvolvedor Backend com experiência em sistemas em produção
+Desenvolvedor Full Stack com foco em backend e IA aplicada. Trabalho com Laravel e
+PostgreSQL em produção e construo aplicações com LLMs em Python: extração estruturada,
+modelos locais, agentes e avaliação.
 
-🚀 Trabalho com:
-- PHP / Laravel
-- PostgreSQL
-- Docker
-- APIs REST
-- Infraestrutura e deploy
+### O que eu uso
 
-🧠 Foco em:
-- Organização de código e regras de negócio
-- Performance e escalabilidade
-- Sistemas prontos para produção
+- **Backend:** PHP / Laravel, Python (FastAPI), APIs REST, filas
+- **Banco de dados:** PostgreSQL (otimização de consultas, pg_trgm, PL/pgSQL), Redis
+- **IA aplicada:** LLMs locais com Ollama, saída estruturada em JSON, MCP, agentes, avaliação de modelos
+- **Frontend:** Vue.js / Nuxt, React, TypeScript
+- **Infra:** Docker, CI/CD, Linux
 
-📌 Projetos em destaque:
-- 🔗 [H7 Escalas](https://plataforma.h7-escalas.com.br)
-- 🔗 [Dois90 Pizzaria](https://dois90.com.br)
+### Projeto em destaque
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Lucas-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="Lucas-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/lucas_mrpaiva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucaspaivadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-paiva-613366209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**[agenda-bot](https://github.com/LucasMaPaiva/agenda-bot)**: bot do Telegram que transforma
+mensagens como "dentista amanhã às 9h" em eventos no Google Agenda, com um LLM local
+(Gemma 3 no Ollama). Uma avaliação com mensagens de resposta conhecida mostrou o modelo
+sozinho acertando 0 de 15; com as datas e recorrências resolvidas em código, 14 de 15.
+Python, pytest, CI com GitHub Actions.
+
+### Outros projetos
+
+- 🔗 [H7 Escalas](https://plataforma.h7-escalas.com.br): gestão de escalas, repertório e avisos
+- 🔗 [Dois90 Pizzaria](https://dois90.com.br): site com cardápio digital, foco em performance e SEO local
 
 <div>
-<!--   <a href="https://wakatime.com/@LucasMaPaiva" target="_blank"><img src="https://wakatime.com/badge/user/018e818c-fcf7-4745-9724-57c68b8908fd.svg" alt="Total time coded since Mar 27 2023" target="_blank"></a>  -->
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
+
+### Contato
+
+<a href="https://www.linkedin.com/in/lucasmatheuspaiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:lucaspaivadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
