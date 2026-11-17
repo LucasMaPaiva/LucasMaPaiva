@@ -1,18 +1,29 @@
 # Olá, eu sou o Lucas Paiva 👋
 
 Desenvolvedor Full Stack com foco em backend e IA aplicada. Trabalho com Laravel e
-PostgreSQL em produção e construo aplicações com LLMs em Python: extração estruturada,
-modelos locais, agentes e avaliação.
+PostgreSQL em produção, construo serviços em Go e aplicações com LLMs em Python:
+RAG, extração estruturada, modelos locais, agentes e avaliação.
 
 ### O que eu uso
 
-- **Backend:** PHP / Laravel, Python (FastAPI), APIs REST, filas
-- **Banco de dados:** PostgreSQL (otimização de consultas, pg_trgm, PL/pgSQL), Redis
-- **IA aplicada:** LLMs locais com Ollama, saída estruturada em JSON, MCP, agentes, avaliação de modelos
+- **Backend:** PHP / Laravel, Go, Python (FastAPI), APIs REST, filas (RabbitMQ)
+- **Banco de dados:** PostgreSQL (otimização de consultas, pg_trgm, pgvector, PL/pgSQL), Redis
+- **IA aplicada:** RAG, LLMs locais com Ollama, saída estruturada em JSON, MCP, agentes, avaliação de modelos
 - **Frontend:** Vue.js / Nuxt, React, TypeScript
-- **Infra:** Docker, CI/CD, Linux
+- **Infra:** Docker, CI/CD, Prometheus, Linux
 
-### Projeto em destaque
+### Projetos em destaque
+
+**[accounts-receivable](https://github.com/LucasMaPaiva/accounts-receivable)**: microsserviço
+de contas a receber em Go, extraído de um monólito Laravel. API em net/http, PostgreSQL com
+pagamento transacional, eventos pelo RabbitMQ com inbox idempotente e outbox, servidor MCP
+só leitura e métricas Prometheus. Docker e CI com GitHub Actions.
+
+**[rag-laravel-docs](https://github.com/LucasMaPaiva/rag-laravel-docs)**: RAG local sobre a
+documentação do Laravel, com busca vetorial e híbrida no PostgreSQL (pgvector + pg_trgm).
+Numa avaliação com 30 perguntas em português sobre a documentação em inglês, o modelo de
+embeddings multilíngue levou o acerto conceitual de 21% para 84%, e a busca híbrida com
+peso ajustado chegou a 90%.
 
 **[agenda-bot](https://github.com/LucasMaPaiva/agenda-bot)**: bot do Telegram que transforma
 mensagens como "dentista amanhã às 9h" em eventos no Google Agenda, com um LLM local
